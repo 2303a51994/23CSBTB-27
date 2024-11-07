@@ -9,3 +9,5 @@
 [https://github.com/2303a51994/23CSBTB-27/blob/main/lab5.ipynb]
 
 [https://github.com/2303a51994/23CSBTB-27/blob/main/lab06.ipynb]
+
+[https://github.com/2303a51994/23CSBTB-27/blob/main/lab%20exam.ipynb]
