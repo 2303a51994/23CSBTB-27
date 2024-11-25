@@ -12,4 +12,6 @@
 
 [https://github.com/2303a51994/23CSBTB-27/blob/main/lab_7.ipynb]
 
+[https://github.com/2303a51994/23CSBTB-27/blob/main/lab_8.ipynb]
+
 [https://github.com/2303a51994/23CSBTB-27/blob/main/lab%20exam.ipynb]
